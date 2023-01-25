@@ -10,7 +10,7 @@ import static org.hamcrest.Matchers.containsString;
 
 public class ExemploCTG {
 
-//
+
     @Test
     @DisplayName("Quando pegar o site principal, então devo ver o título viniciuspessoni")
     public void verificaHomePage (){
